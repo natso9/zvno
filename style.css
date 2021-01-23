@@ -1,0 +1,41 @@
+.countdown-container {
+
+  padding:34px;
+  color: #1d3357;
+  font-family: "Roboto", sans-serif;
+  width: 500px;
+  box-sizing: border-box;
+  margin: 0 auto;
+
+}
+
+
+
+
+.countdown-container .countdown-details {
+  text-align: center;
+}
+
+.timer {
+  background: #1d3357;
+  color: #f1faee;
+  padding: 36px;
+  display: flex;
+  justify-content: space-between;
+  text-align: right;
+  border-radius: 70px;
+}
+
+.timer .number {
+  font-size: 46px;
+  font-weight: bold;
+}
+
+.timer .unit {
+  color: #a8dadc;
+}
+
+
+
+
+
